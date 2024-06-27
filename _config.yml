@@ -1,4 +1,5 @@
 Title: DH Project
 # This is a comment
 # this document has to be named _config.yml so Jekyll can find it
-theme: jekyll-theme-minimal
+theme: minima
+#look at theme documentation because it will tell you how to change the theme or create navigation etc
