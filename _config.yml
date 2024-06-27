@@ -3,3 +3,6 @@ Title: DH Project
 # this document has to be named _config.yml so Jekyll can find it
 theme: minima
 #look at theme documentation because it will tell you how to change the theme or create navigation etc
+header_pages:
+  - index.md
+  - page1.md
